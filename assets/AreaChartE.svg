@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="597" height="432" viewBox="0 0 597 432">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_18" data-name="Path 18" d="M60,0H570V371H60Z"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-261 -480)">
+    <g id="temp1" transform="translate(254 489)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M60,370H570M60,280H570M60,190H570M60,100H570" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+        <path id="Path_2" data-name="Path 2" d="M60,10H570M60,10V370M145,10V370M230,10V370" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+        <path id="Path_3" data-name="Path 3" d="M315,10V370M400,10V370M485,10V370M570,10V370" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3 3"/>
+      </g>
+      <path id="Path_4" data-name="Path 4" d="M60,370H570M60,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_A_" data-name="Page A
+" transform="translate(60 395)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-32.22" y="0">Page A</tspan><tspan font-size="320.308"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_5" data-name="Path 5" d="M145,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_B_" data-name="Page B
+" transform="translate(145 395)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-32.59" y="0">Page B</tspan><tspan x="0" y="24"></tspan></text>
+      <path id="Path_6" data-name="Path 6" d="M230,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_C_" data-name="Page C
+" transform="translate(230 394)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-32.96" y="0">Page C</tspan><tspan font-size="320.308"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_7" data-name="Path 7" d="M315,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_D_" data-name="Page D
+" transform="translate(315 394)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-32.78" y="0">Page D</tspan><tspan x="0" y="24"></tspan></text>
+      <path id="Path_8" data-name="Path 8" d="M400,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_E_" data-name="Page E
+" transform="translate(399 395)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-31.85" y="0">Page E</tspan><tspan font-size="320.308"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_9" data-name="Path 9" d="M485,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_F_" data-name="Page F
+" transform="translate(488 395)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-31.48" y="0">Page F</tspan><tspan font-size="320.308"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_10" data-name="Path 10" d="M570,376v-6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="Page_G_" data-name="Page G
+" transform="translate(570 394)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-33.33" y="0">Page G</tspan><tspan x="0" y="24"></tspan></text>
+      <path id="Path_11" data-name="Path 11" d="M60,10V370m-6,0h6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="_0_" data-name="0
+" transform="translate(52 370)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-11.12" y="0">0</tspan><tspan font-size="307.338"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_12" data-name="Path 12" d="M54,280h6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="_1000_" data-name="1000
+" transform="translate(52 280)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-44.48" y="0">1000</tspan><tspan font-size="230.084"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_13" data-name="Path 13" d="M54,190h6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="_2000_" data-name="2000
+" transform="translate(52 190)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-44.48" y="0">2000</tspan><tspan font-size="152.831"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_14" data-name="Path 14" d="M54,100h6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="_3000_" data-name="3000
+" transform="translate(52 100)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-44.48" y="0">3000</tspan><tspan font-size="75.577"><tspan x="0" y="24"></tspan></tspan></text>
+      <path id="Path_15" data-name="Path 15" d="M54,10h6" fill="none" stroke="#666" stroke-width="1"/>
+      <text id="_4000" data-name="4000" transform="translate(52 10)" fill="#666" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-44.48" y="0">4000</tspan></text>
+      <g id="Group_2" data-name="Group 2" clip-path="url(#clip-path)">
+        <path id="Path_16" data-name="Path 16" d="M60,10l85,90c28.333,30,56.667,90,85,90s56.667-70.2,85-70.2,56.667,80.1,85,80.1,56.667-21,85-45,56.667-61.5,85-99V370H60Z" fill="rgba(136,132,216,0.6)"/>
+        <path id="Path_17" data-name="Path 17" d="M60,10l85,90c28.333,30,56.667,90,85,90s56.667-70.2,85-70.2,56.667,80.1,85,80.1,56.667-21,85-45,56.667-61.5,85-99" fill="none" stroke="#8884d8" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

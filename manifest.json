@@ -1,0 +1,17 @@
+{
+  "name": "Drag and Drop",
+  "id": "DRAGDROP",
+  "version": "1.0.0",
+  "host": {
+      "app": "XD",
+      "minVersion": "26.0"
+  },
+  "uiEntryPoints": [
+      {
+          "type": "panel",
+          "label": "Drag and Drop",
+          "panelId": "dnd"
+
+      }
+  ]
+}  

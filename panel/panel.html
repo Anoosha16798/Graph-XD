@@ -1,0 +1,67 @@
+<style>
+    .pane {
+      border: 1px solid #808080;
+      border-radius: 8px;
+      padding: 8px;
+      margin: 8px 0;
+    }
+    .pane h3 {
+      letter-spacing: 0;
+      font-size: 12px;
+      padding: 8px;
+      position: relative;
+      top: -8px;
+      margin: -8px -8px 0 -8px;
+      border-top-left-radius: 6px;
+      border-top-right-radius: 6px;
+      background-color: #808080;
+      color: white;
+    }
+    .grid img {
+      margin: 8px;
+      border-radius: 8px;
+    }
+  </style>
+  <div class="pane">
+    <h3>Select an action:</h3>
+    <label id="fldAction">
+      <select id="lstAction">
+        <option  value="${MODES.URL}">Image URL</option>
+        <option selected value="${MODES.FILE}">Local File</option>
+      </select>
+    </label>
+  </div>
+  
+  <div id="${MODES.FILE}" class="pane">
+    <h3>Load an Image</h3>
+    <form method="dialog">
+    <button id="btnLoadSVG" uxp-variant="cta">Fixed Image</button>
+    <button id="btnSVGD" type="submit" uxp-variant="cta">DownloadSVG</button>
+      <footer><button id="btnLoadImage" uxp-variant="cta">Load Image</button></footer>
+    </form>
+  </div>
+  <div id="${MODES.URL}" class="pane">
+    <h3>Image URL</h3>
+    <form method="dialog">
+      <label id="fldImageUrl" style="width: 100%;">
+        <span>URL of image</span>
+        <input style="width: 100%;" type="text" id="txtImageUrl" placeholder="https://" uxp-quiet="true"/>
+      </label>
+      <footer><button id="btnDownloadImage" type="submit" uxp-variant="cta">Download</button>
+      
+      <button id="btnDownloadImage" type="submit" uxp-variant="cta">Fixed</button></footer>
+     
+    </form>
+  </div>
+  <div class="pane">
+    <h3>Images to Drag</h3>
+    
+    <div id="divThingsToDrag" class="grid" draggable="true" ></div>
+  
+    <div id="divThingsTofix" class="grid" draggable="true" >fixed
+    
+    </div>
+    
+  </div>
+  
+  

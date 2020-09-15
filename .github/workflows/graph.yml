@@ -1,0 +1,13 @@
+name: Sonar CI/CD
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: curl -O https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.4.0.2170-linux.zip
+    - run: sudo apt-get install unzip
+    - run: unzip sonar-scanner-cli-4.4.0.2170-linux.zip
+    - run: sonar-scanner-4.4.0.2170-linux/bin/sonar-scanner -D"sonar.projectKey=${{ secrets.PROJECT_KEY }}" -D"sonar.sources=." -D"sonar.host.url=${{ secrets.PROJECT_URL }}" -D"sonar.login=${{ secrets.PROJECT_TOKEN }}"
